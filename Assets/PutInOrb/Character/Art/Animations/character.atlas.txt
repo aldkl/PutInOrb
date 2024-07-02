@@ -1,0 +1,327 @@
+character.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+add_dark
+	bounds: 532, 76, 102, 102
+back_foot_L
+	bounds: 599, 2, 72, 57
+back_hit_arm_L
+	bounds: 371, 84, 159, 94
+	offsets: 1, 1, 161, 96
+back_hit_arm_R
+	bounds: 782, 36, 150, 98
+	offsets: 2, 1, 153, 100
+	rotate: 90
+back_hit_foot_R
+	bounds: 362, 2, 80, 71
+	offsets: 1, 2, 95, 74
+	rotate: 90
+front_ear_L
+	bounds: 371, 180, 224, 226
+	offsets: 2, 1, 227, 228
+front_ear_L _back
+	bounds: 721, 796, 224, 226
+	offsets: 2, 1, 227, 228
+front_ear_R
+	bounds: 721, 569, 225, 225
+	offsets: 1, 2, 227, 228
+front_ear_R_back
+	bounds: 721, 342, 225, 225
+	offsets: 1, 2, 227, 228
+front_eye_L
+	bounds: 660, 357, 46, 49
+	offsets: 1, 1, 48, 52
+front_eye_R
+	bounds: 954, 206, 46, 49
+	offsets: 1, 1, 48, 51
+front_face
+	bounds: 2, 150, 367, 256
+	offsets: 1, 1, 369, 258
+front_foot_R
+	bounds: 948, 463, 105, 72
+	offsets: 1, 1, 107, 74
+	rotate: 90
+front_mouse
+	bounds: 948, 570, 123, 67
+	offsets: 1, 1, 125, 75
+	rotate: 90
+front_parts
+	bounds: 2, 24, 315, 124
+	offsets: 1, 2, 317, 127
+side_C_ear_back
+	bounds: 636, 61, 144, 125
+	offsets: 1, 1, 146, 127
+side_C_ear_front
+	bounds: 597, 188, 152, 239
+	offsets: 1, 1, 155, 241
+	rotate: 90
+side_C_foot
+	bounds: 948, 695, 152, 67
+	rotate: 90
+side_D_foot_R
+	bounds: 966, 8, 73, 44
+	offsets: 1, 1, 75, 47
+	rotate: 90
+side_U_foot_L
+	bounds: 954, 257, 103, 58
+	rotate: 90
+side_U_foot_R
+	bounds: 597, 342, 64, 61
+	rotate: 90
+side_U_tail
+	bounds: 948, 362, 99, 70
+	offsets: 1, 1, 114, 72
+	rotate: 90
+side_center_hit_arm_L
+	bounds: 882, 83, 104, 140
+	offsets: 1, 1, 106, 142
+	rotate: 90
+side_center_hit_arm_R
+	bounds: 673, 5, 105, 54
+	offsets: 1, 1, 107, 57
+side_center_hit_foot_L
+	bounds: 508, 2, 72, 89
+	offsets: 1, 1, 74, 91
+	rotate: 90
+side_center_hit_foot_R
+	bounds: 319, 19, 41, 129
+	offsets: 1, 1, 43, 131
+side_down_hit
+	bounds: 2, 408, 717, 614
+	offsets: 1, 1, 720, 616
+side_down_hit_arm_L
+	bounds: 882, 2, 79, 82
+	offsets: 1, 1, 81, 84
+	rotate: 90
+side_down_hit_arm_R
+	bounds: 838, 189, 151, 114
+	offsets: 1, 1, 154, 116
+	rotate: 90
+side_down_hit_eye
+	bounds: 435, 2, 80, 71
+	offsets: 1, 1, 82, 73
+	rotate: 90
+side_up_hit_arm_L
+	bounds: 947, 849, 72, 173
+	offsets: 2, 1, 76, 175
+
+character_2.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+add_light
+	bounds: 890, 769, 102, 101
+	offsets: 0, 1, 102, 102
+back_foot_R
+	bounds: 888, 573, 84, 55
+back_hit_foot_L
+	bounds: 887, 504, 85, 67
+	offsets: 1, 1, 87, 69
+back_tail
+	bounds: 563, 212, 123, 99
+	offsets: 2, 1, 126, 101
+front_arm_L
+	bounds: 566, 313, 120, 109
+	offsets: 0, 1, 120, 110
+	rotate: 90
+front_arm_R
+	bounds: 437, 208, 124, 108
+front_eyebrow_L
+	bounds: 987, 973, 49, 35
+	offsets: 2, 1, 52, 38
+	rotate: 90
+front_eyebrow_R
+	bounds: 987, 922, 49, 35
+	offsets: 2, 1, 52, 37
+	rotate: 90
+front_foot_L
+	bounds: 153, 82, 118, 89
+	offsets: 1, 1, 120, 91
+	rotate: 90
+front_hit
+	bounds: 2, 435, 678, 587
+	offsets: 1, 1, 680, 589
+front_hit_arm_L
+	bounds: 890, 872, 150, 95
+	offsets: 1, 1, 152, 98
+	rotate: 90
+front_hit_arm_R
+	bounds: 2, 102, 149, 98
+	offsets: 1, 2, 152, 101
+front_hit_foot_L
+	bounds: 244, 2, 102, 106
+	offsets: 1, 1, 104, 108
+front_hit_foot_R
+	bounds: 244, 110, 104, 106
+	offsets: 1, 1, 106, 108
+side_C_arm
+	bounds: 800, 449, 130, 85
+	offsets: 1, 2, 132, 89
+	rotate: 90
+side_D_arm_L
+	bounds: 682, 454, 116, 125
+	offsets: 2, 2, 119, 129
+side_D_arm_R
+	bounds: 887, 433, 69, 83
+	offsets: 2, 1, 72, 85
+	rotate: 90
+side_D_ear_L
+	bounds: 2, 202, 218, 231
+	offsets: 2, 2, 221, 234
+side_D_ear_R
+	bounds: 222, 218, 213, 215
+	offsets: 1, 1, 215, 218
+side_D_eye_L
+	bounds: 974, 623, 41, 48
+	offsets: 1, 1, 43, 50
+	rotate: 90
+side_D_eye_R
+	bounds: 974, 584, 37, 48
+	offsets: 1, 1, 39, 50
+	rotate: 90
+side_D_eyebrow_L
+	bounds: 974, 533, 49, 37
+	offsets: 1, 1, 51, 39
+	rotate: 90
+side_D_eyebrow_R
+	bounds: 987, 873, 47, 35
+	offsets: 1, 1, 49, 38
+	rotate: 90
+side_D_foot_L
+	bounds: 539, 133, 73, 73
+	offsets: 1, 1, 76, 76
+side_D_mouse
+	bounds: 124, 22, 100, 58
+	offsets: 1, 1, 102, 60
+side_U_arm_back
+	bounds: 350, 133, 83, 85
+	offsets: 1, 1, 85, 88
+	rotate: 90
+side_U_arm_front
+	bounds: 2, 2, 120, 98
+side_U_ear_back
+	bounds: 682, 581, 204, 209
+	offsets: 1, 1, 206, 211
+side_U_ear_front
+	bounds: 682, 792, 206, 230
+	offsets: 1, 2, 209, 233
+side_center_hit_mouse
+	bounds: 434, 57, 70, 77
+	offsets: 1, 1, 72, 79
+	rotate: 90
+side_down_hit_foot_L
+	bounds: 888, 630, 76, 137
+	offsets: 2, 1, 79, 139
+side_down_hit_foot_R
+	bounds: 437, 318, 127, 115
+	offsets: 1, 1, 130, 118
+side_up_hit_arm_R
+	bounds: 437, 129, 100, 77
+	offsets: 2, 1, 103, 80
+side_up_hit_foot_L
+	bounds: 966, 666, 101, 56
+	offsets: 1, 1, 104, 58
+	rotate: 90
+side_up_hit_foot_R
+	bounds: 350, 65, 66, 82
+	offsets: 1, 1, 68, 84
+	rotate: 90
+
+character_3.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+side_down_hit2
+	bounds: 2, 2, 657, 562
+	offsets: 1, 2, 660, 565
+
+character_4.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+back_hit
+	bounds: 2, 2, 617, 576
+	offsets: 1, 1, 619, 578
+
+character_5.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+side_center_hit2
+	bounds: 2, 2, 577, 464
+	offsets: 2, 1, 580, 466
+side_up_hit2
+	bounds: 2, 468, 621, 554
+	offsets: 2, 1, 624, 556
+
+character_6.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+side_up_hit
+	bounds: 2, 2, 641, 519
+	offsets: 1, 1, 643, 521
+
+character_7.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+front_hit2
+	bounds: 2, 2, 565, 544
+	offsets: 1, 1, 567, 562
+
+character_8.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+side_center_hit
+	bounds: 2, 2, 515, 581
+	offsets: 2, 1, 519, 583
+
+character_9.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+back_hit2
+	bounds: 2, 2, 541, 552
+	offsets: 1, 1, 543, 554
+
+character_10.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+front_body
+	bounds: 2, 2, 525, 543
+	offsets: 1, 2, 527, 546
+
+character_11.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+front_body_back
+	bounds: 2, 2, 525, 543
+	offsets: 1, 2, 527, 546
+
+character_12.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+side_D_body
+	bounds: 2, 2, 525, 532
+	offsets: 1, 2, 528, 536
+
+character_13.png
+	size: 512, 1024
+	filter: Linear, Linear
+	pma: true
+side_U_body
+	bounds: 2, 2, 508, 533
+	offsets: 1, 2, 510, 537
+
+character_14.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+side_C_body
+	bounds: 2, 2, 522, 514

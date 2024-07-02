@@ -1,0 +1,50 @@
+backgrond.png
+	size: 4096, 2048
+	filter: Linear, Linear
+	pma: true
+L_ring_B
+	bounds: 3682, 124, 824, 206
+	offsets: 1, 2, 826, 209
+	rotate: 90
+L_ring_F
+	bounds: 2861, 8, 940, 317
+	offsets: 1, 14, 945, 332
+	rotate: 90
+background
+	bounds: 2, 110, 1920, 1080
+	offsets: 1, 1, 1922, 1082
+	rotate: 90
+cycle_1
+	bounds: 2, 2, 103, 106
+	offsets: 1, 1, 105, 108
+cycle_2
+	bounds: 107, 20, 88, 87
+	offsets: 1, 1, 90, 89
+	rotate: 90
+particle
+	bounds: 2166, 950, 1892, 1080
+	offsets: 1, 1, 1894, 1082
+planet_L
+	bounds: 3180, 451, 497, 500
+	offsets: 1, 1, 499, 502
+	rotate: 90
+planet_S
+	bounds: 3425, 225, 232, 224
+	offsets: 1, 1, 234, 226
+planets
+	bounds: 1084, 110, 1920, 1080
+	offsets: 1, 1, 1922, 1082
+	rotate: 90
+rocket
+	bounds: 3180, 190, 243, 259
+rocket_line
+	bounds: 2166, 149, 693, 799
+	offsets: 249, 0, 942, 882
+s_ring_B
+	bounds: 3890, 633, 315, 188
+	offsets: 1, 1, 317, 190
+	rotate: 90
+s_ring_F
+	bounds: 3890, 314, 317, 179
+	offsets: 1, 1, 319, 181
+	rotate: 90
